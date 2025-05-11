@@ -2,4 +2,6 @@ if game.PlaceId == 73010525850196 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/eclipse-xz/AsteroidHub/refs/heads/main/DesertDetectors"))()
 elseif game.PlaceId == 85896571713843 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/eclipse-xz/AsteroidHub/refs/heads/main/BGSI"))()
+elseif game.PlaceId == 87700573492940 then
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/eclipse-xz/AsteroidHub/refs/heads/main/UntitledDrillGame"))()
 end
